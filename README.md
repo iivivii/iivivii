@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krystal @iivivii
 - 👀 I’m interested in becoming a front end developer and eventually a full stack developer.
-- 🌱 I’m currently learning java and python, and strengthening my html and css skills.
+- 🌱 I’m currently learning javascript and python. I have html and css skills.
 - 💞️ I’m looking to collaborate on projects that are creative and interesting.
 - 📫 How to reach me : kiramiq@gmail.com
 
